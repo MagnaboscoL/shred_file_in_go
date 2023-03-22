@@ -1,0 +1,5 @@
+# Visual Studio Code workspace file
+*.code-workspace
+
+# Coverage results files
+*.coverage
